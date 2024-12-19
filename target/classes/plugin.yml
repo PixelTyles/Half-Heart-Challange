@@ -1,0 +1,4 @@
+name: Halbe-herz-Challange
+version: '1.0'
+main: de.pixeltyles.halbeherzchallange.HalfHeartChallange
+api-version: '1.20'
